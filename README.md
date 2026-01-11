@@ -8,4 +8,4 @@ A landing page built as part of The Odin Project Foundations curriculum.
 - Responsive design basics
 
 ## Live Demo
-https://yourusername.github.io/odin-landing-page/
+https://dominickvaske.github.io/odin-landing-page/
